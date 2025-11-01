@@ -109,7 +109,7 @@ The project utilizes **five CSV files** as input:
 ## 🧑‍💻 Author
 
 **Mani Chokkara**
-📧 [[your.email@example.com](mailto:manichokkara2438@gmail.com)]
+📧 [[manichokkara2438@gmail.com](mailto:manichokkara2438@gmail.com)]
 🔗 [LinkedIn Profile:http://www.linkedin.com/in/manichokkara]
 
 ---
